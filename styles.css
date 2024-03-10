@@ -154,6 +154,9 @@ header p {
   background-color: var(--purple-3);
 }
 
+.choice-section {
+  text-align: center;
+}
 .choice-section > p {
   color: var(--purple-3);
   font-weight: 600;
